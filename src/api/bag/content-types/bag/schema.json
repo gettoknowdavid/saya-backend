@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "bags",
+  "info": {
+    "singularName": "bag",
+    "pluralName": "bags",
+    "displayName": "Bag"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
+    }
+  }
+}
